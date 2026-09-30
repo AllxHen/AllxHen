@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! Sou o Allex👋
+estudante de Desenvolvimento de Software.
 
-<!--
-**AllxHen/AllxHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Atualmente estudando
 
-Here are some ideas to get you started:
+- JavaScript
+- SQL
+- Lógica de Programação
+- Desenvolvimento Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Objetivo
+
+Desejo aplicar meus conhecimentos em JavaScript, SQL e outras linguagem, adquirir experiência profissional e continuar desenvolvendo minhas habilidades em diferentes tecnologias. Meu objetivo é construir minha carreira como Desenvolvedor Full Stack, ampliando gradualmente meus conhecimentos e aprendendo novas tecnologias ao longo da minha formação.
+
+
+## 🛠️ Tecnologias
+
+- JavaScript
+- SQL
+- Git
+- GitHub
+- C#
+- Nodejs
+
