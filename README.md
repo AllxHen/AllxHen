@@ -8,8 +8,7 @@
 
 Sou estudante de Desenvolvimento de Software e estou construindo minha base em programação, lógica e desenvolvimento de sistemas.
 
-Gosto de aprender novas tecnologias, desenvolver projetos e resolver problemas por meio do código. Também tenho interesse em Inteligência Artificial e Cibersegurança, áreas que pretendo explorar ao longo da minha jornada.
-
+Gosto de aprender novas tecnologias, desenvolver projetos e resolver problemas por meio do código.
 Atualmente, meu foco é fortalecer meus fundamentos e transformar meus estudos em projetos práticos.
 
 ## 🛠️ Tecnologias e conhecimentos
@@ -32,7 +31,6 @@ Atualmente, meu foco é fortalecer meus fundamentos e transformar meus estudos e
 - Desenvolver projetos práticos e fortalecer meu portfólio.
 - Conquistar minha primeira oportunidade profissional na área de tecnologia.
 - Evoluir para o desenvolvimento Full Stack.
-- Explorar Inteligência Artificial e Cibersegurança.
 
 ## 📂 Meus projetos
 
