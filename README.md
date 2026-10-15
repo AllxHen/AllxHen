@@ -15,7 +15,7 @@ Atualmente, meu foco é fortalecer meus fundamentos e transformar meus estudos e
 ## 🛠️ Tecnologias e conhecimentos
 
 - **JavaScript:** estudando lógica de programação e fundamentos da linguagem.
-- **MySQL:** conhecimentos básicos em bancos de dados.
+- **SQL:** conhecimentos básicos em bancos de dados.
 - **GitHub:** versionamento e organização de projetos.
 
 ## 📚 Atualmente estudando
