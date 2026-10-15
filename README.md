@@ -41,7 +41,7 @@ Confira meus repositórios para acompanhar meus estudos e projetos:
 ## 📫 Contato
 
 - **GitHub:** [@AllxHen](https://github.com/AllxHen)
-- **LinkedIn:** [Allex Santos](www.linkedin.com/in/allex-dosantos)
+- **LinkedIn:** [Allex Santos](https://www.linkedin.com/in/allex-dosantos/?isSelfProfile=true)
 
 ---
 
