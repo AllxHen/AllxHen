@@ -1,48 +1,57 @@
-# Olá! Eu sou o Allex 👋
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/8c/42/6e/8c426e7d09af00fd53b3cb01fbea8165.gif"  />
+</div>
 
-🎓 Estudante de **Desenvolvimento de Software**  
-💻 Em busca de evolução constante na área de tecnologia  
-🚀 Objetivo: me tornar um desenvolvedor Full Stack
+###
 
-## 👨‍💻 Sobre mim
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/allex-dosantos/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Meu&color=0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-Sou estudante de Desenvolvimento de Software e estou construindo minha base em programação, lógica e desenvolvimento de sistemas.
+###
 
-Gosto de aprender novas tecnologias, desenvolver projetos e resolver problemas por meio do código.
-Atualmente, meu foco é fortalecer meus fundamentos e transformar meus estudos em projetos práticos.
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=AllxHen.AllxHen&"  />
+</div>
 
-## 🛠️ Tecnologias e conhecimentos
+###
 
-- **JavaScript:** estudando lógica de programação e fundamentos da linguagem.
-- **SQL:** conhecimentos básicos em bancos de dados.
-- **GitHub:** versionamento e organização de projetos.
+<h1 data-importer="text" align="center">Opa!</h1>
 
-## 📚 Atualmente estudando
+###
 
-- Lógica de programação e estruturas de controle.
-- Laços de repetição, arrays e funções.
-- Desenvolvimento de aplicações.
-- Bancos de dados relacionais.
-- Boas práticas de programação.
+<h3 data-importer="text" align="left">-  About Me</h3>
 
-## 🎯 Objetivos
+###
 
-- Concluir minha formação técnica em Desenvolvimento de Software.
-- Desenvolver projetos práticos e fortalecer meu portfólio.
-- Conquistar minha primeira oportunidade profissional na área de tecnologia.
-- Evoluir para o desenvolvimento Full Stack.
+<p data-importer="text" align="left">Hi! I'm a Software Development student from Brazil, currently building my skills in programming and exploring different areas of technology.<br><br>💻 Currently learning JavaScript, Node.js, SQL, and C#.<br><br>📚 Constantly learning, practicing, and building projects to improve my technical skills.<br><br>🎯 My goal is to grow as a technology professional and contribute to real-world projects.<br><br>🛠️ Technologies I'm Learning</p>
 
-## 📂 Meus projetos
+###
 
-Confira meus repositórios para acompanhar meus estudos e projetos:
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-🔗 [Acessar meus repositórios](https://github.com/AllxHen?tab=repositories)
+###
 
-## 📫 Contato
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
-- **GitHub:** [@AllxHen](https://github.com/AllxHen)
-- **LinkedIn:** [Allex Santos](https://www.linkedin.com/in/allex-dosantos/?isSelfProfile=true)
+###
 
----
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-*Em constante aprendizado, construindo conhecimento e evoluindo um projeto de cada vez.* 🚀
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=AllxHen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
