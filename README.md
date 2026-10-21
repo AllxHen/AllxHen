@@ -18,8 +18,6 @@
 
 ###
 
-<h1 data-importer="text" align="center">Opa!</h1>
-
 ###
 
 <h3 data-importer="text" align="left">-  About Me</h3>
